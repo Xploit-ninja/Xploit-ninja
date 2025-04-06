@@ -24,6 +24,6 @@ Hello! I'm **Xploit-ninja**, a passionate developer with a keen interest in **tr
 
 ![GitHub followers](https://img.shields.io/github/followers/Xploit-ninja?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Xploit_ninja?style=social)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)
+![Instagram](https://img.shields.io/badge/Instagram-Connect-blue?style=flat&logo=instgram)
 
 <p style="font-family: 'Times New Roman'; color: purple;">Thanks for visiting my profile! Let's collaborate and innovate together.</p>
