@@ -1,7 +1,7 @@
-# Welcome to Xploit-ninja's Profile! 🚀
+# Welcome to zynthera Profile! 🚀
 
 ## About Me
-Hello! I'm **Xploit-ninja**, a passionate developer with a keen interest in **trading**, **business**, and **entrepreneurship**.
+Hello! I'm **zynthera**, a passionate developer with a keen interest in **trading**, **business**, and **ethical hacker**.
 
 <p style="font-family: 'Comic Sans MS'; color: blue;">This is a custom font and color!</p>
 
@@ -23,7 +23,7 @@ Hello! I'm **Xploit-ninja**, a passionate developer with a keen interest in **tr
 <p style="font-family: 'Arial'; color: orange;">Feel free to reach out and connect with me on various platforms:</p>
 
 ![GitHub followers](https://img.shields.io/github/followers/Xploit-ninja?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/Xploit_ninja?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/PrakharYud?style=social)
 ![Instagram](https://img.shields.io/badge/Instagram-Connect-blue?style=flat&logo=instgram)
 
 <p style="font-family: 'Times New Roman'; color: purple;">Thanks for visiting my profile! Let's collaborate and innovate together.</p>
