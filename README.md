@@ -9,8 +9,7 @@
 
 ## 🏆 About Me
 
-<div style="border: 2px solid #8FF0FF; border-radius: 10px; padding: 15px; margin-bottom: 15px; box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);">
-Hi there! I'm **zynthera**, a developer specializing in **Python**, **Next.js**, and **Rust**. I design scalable, secure, and high-performance systems hosted on platforms like **Vercel**, **Netlify**, and **self-hosted Supabase**.
+Hi there! I'm **zynthera**, a developer specializing in **Python**, **Next.js**, and **Rust**. I design scalable, secure, and high-performance systems hosted on platforms like **Vercel**, **Netlify**, and **Supabase**.
 
 ### 💡 Key Highlights
 | **Category**             | **Details**                                                |
@@ -19,13 +18,10 @@ Hi there! I'm **zynthera**, a developer specializing in **Python**, **Next.js**,
 | **Hosting Platforms**     | Vercel, Netlify, Supabase (Self-Hosted)                   |
 | **Database**              | Supabase (PostgreSQL-based)                               |
 | **Focus Areas**           | Web Development, Backend Systems, AI, Cybersecurity       |
-</div>
 
 ---
 
 ## ⚙️ What I Do
-
-<div style="border: 2px solid #FF5555; border-radius: 10px; padding: 15px; margin-bottom: 15px; box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);">
 
 ### 🔗 Full-Stack Web Development
 - **Frontend**: Building dynamic and responsive interfaces using **Next.js** and **React**.
@@ -45,13 +41,11 @@ Hi there! I'm **zynthera**, a developer specializing in **Python**, **Next.js**,
 
 ### 🤖 Artificial Intelligence
 - Creating AI-powered solutions for **data analysis**, **machine learning**, and **predictive modeling**.
-</div>
 
 ---
 
 ## 📦 Tools & Technologies
 
-<div style="border: 2px solid #8FF0FF; border-radius: 10px; padding: 15px; margin-bottom: 15px; box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);">
 | **Category**       | **Tools/Technologies**               |
 |--------------------|---------------------------------------|
 | **Frontend**       | Next.js, React, TypeScript           |
@@ -61,13 +55,11 @@ Hi there! I'm **zynthera**, a developer specializing in **Python**, **Next.js**,
 | **Hosting**        | Vercel, Netlify, Self-Hosted         |
 | **DevOps**         | Docker, Kubernetes, GitHub Actions   |
 | **AI & Data**      | TensorFlow, PyTorch, Pandas, NumPy   |
-</div>
 
 ---
 
 ## 🔐 Security Matrix
 
-<div style="border: 2px solid #FF5555; border-radius: 10px; padding: 15px; margin-bottom: 15px; box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);">
 ```python
 security_status = {
     "encryption": "AES-256",
@@ -78,23 +70,21 @@ security_status = {
     "protocols": ["TLS 1.3", "QUIC", "HTTPS"]
 }
 ```
-</div>
 
 ---
 
 ## 🌐 Hosting & Database
 
-<div style="border: 2px solid #8FF0FF; border-radius: 10px; padding: 15px; margin-bottom: 15px; box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);">
 ### 🏢 Hosting Platforms
-- **Vercel**: Perfect for deploying highly scalable **Next.js** applications with CI/CD.
-- **Netlify**: Ideal for hosting static sites and serverless functions.
+- **Vercel**: Ideal for deploying highly scalable **Next.js** applications with CI/CD.
+- **Netlify**: Best suited for hosting static websites and serverless functions.
 - **Supabase (Self-Hosting)**: Used for hosting secure backend services and APIs.
 
 ### 📂 Database
 - **Supabase**: PostgreSQL-based database for real-time, scalable applications.
-  - Integrated with **RESTful APIs** and **GraphQL**.
-  - Enhanced security with **row-level security**.
-</div>
+  - Features:
+    - Integrated with **RESTful APIs** and **GraphQL**.
+    - Enhanced security with **row-level security**.
 
 ---
 
