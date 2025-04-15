@@ -102,6 +102,29 @@ security_status = {
   </a>
 </div>
 
+<p align="center">
+   <img
+       src="https://github-readme-stats-sigma-ochre.vercel.app/api?username=zynthera&theme=tokyonight&hide_border=true&count_private=true"
+       alt="My GitHub stats"
+     />
+</p>
+
+<p align="center">
+   <img
+       src="https://github-readme-streak-stats-wine-two.vercel.app/?user=zynthera&theme=tokyonight&hide_border=true"
+       alt="My GitHub Streaks"
+     />
+</p>
+
+
+---
+<p align="center">
+   <img
+       src="https://visitcount.itsvg.in/api?id=zynthera&icon=5&color=6"
+       alt="Visit Counts"
+     />
+</p>
+
 ---
 
 <div align="center" style="padding: 10px; border: 2px solid #333; border-radius: 10px; box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);">
