@@ -31,9 +31,9 @@ Hi there! I'm **zynthera**, a developer specializing in **Python**, **Next.js**,
 ### 💻 Programming Languages
 | **Language**   | **Expertise Level** | **Usage**                                  |
 |----------------|---------------------|--------------------------------------------|
-| Python         | ⭐⭐⭐⭐⭐              | Data analysis, backend development     |
+| Python         | ⭐⭐              | Data analysis, backend development     |
 | Next.js        | ⭐⭐⭐⭐               | Web development, UI/UX                     |
-| Rust           | ⭐⭐⭐⭐               | System-level programming, performance      |
+| Rust           | ⭐⭐⭐               | System-level programming, performance      |
 
 ### 🔒 Cybersecurity
 - Designing secure APIs with advanced encryption techniques.
